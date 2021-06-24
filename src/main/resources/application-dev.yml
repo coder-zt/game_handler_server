@@ -1,0 +1,5 @@
+server:
+  port: 666
+spring:
+  application:
+    name: game_handler_server
